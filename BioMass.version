@@ -1,0 +1,23 @@
+﻿{
+	"NAME": "BioMass-Continued",
+	"URL":"https://raw.githubusercontent.com/BetaguyGZT/BioMass-Continued/master/BioMass/BioMass.version",
+	"DOWNLOAD":"https://github.com/BetaguyGZT/BioMass-Continued/releases",
+	"GITHUB":{
+		"USERNAME":"BetaguyGZT",
+		"REPOSITORY":"BioMass-Continued",
+		"ALLOW_PRE_RELEASE":true,
+	},
+	"VERSION":
+	{
+	    "MAJOR":0,
+	    "MINOR":9,
+	    "PATCH":9,
+	    "BUILD":8
+	},
+	"KSP_VERSION":
+	{
+	    "MAJOR": 1,
+	    "MINOR": 2,
+	    "PATCH": 1
+	}
+}
